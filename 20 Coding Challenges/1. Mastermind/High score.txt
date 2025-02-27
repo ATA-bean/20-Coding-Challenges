@@ -1,1 +1,0 @@
-[{'mode': 'easy', 'name': 'Ayaan', 'age': '14', 'high score': '7'}, {'mode': 'medium', 'name': 'Ayaan', 'age': '14', 'high score': '8'}, {'mode': 'hard', 'name': 'Naji', 'age': '32', 'high score': '13'}]
